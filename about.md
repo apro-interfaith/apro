@@ -6,7 +6,7 @@ permalink: /about/
 
 The Australian Partnership of Religious Organisations (APRO) is a peak-of-peak body that was established in 2003. It is unique in that it comprises representatives of major faith bodies as well as national multicultural community organisations. APRO is a practical example of how successfully faith and ethnic communities can work collaboratively in Australia. 
 
-<img src="http://fecca.org.au/wp-content/uploads/2015/06/APRO-Image.jpg">
+![_config.yml]({{ site.baseurl }}/images/APRO-forum-Image.jpg)
 
 ## Background
 
