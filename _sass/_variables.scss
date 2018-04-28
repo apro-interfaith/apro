@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: "Satisfy","Alegreya Sans",Helvetica, Arial, sans-serif;
-$helveticaNeue: "Satisfy","Alegreya Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: "Satisfy","Alegreya Ht Pro",Georgia, serif;
+$helvetica: Alegreya,Helvetica, Arial, sans-serif;
+$helveticaNeue: Alegreya, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Alegreya,Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
