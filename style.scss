@@ -160,36 +160,37 @@ img {
 }
 
 .site-avatar {
-  float: left;
-  width: 75%;
-  margin-right: 15px;
+  width: 100%;
+	display: block;
+
 
   @include mobile {
-    float: none;
-    display: block;
-    width: 85%;
-    margin: 0 auto;
+
   }
 
 }
 
 
 nav {
-    float: none;
     margin-top: 9px;
     display: block;
     font-family: $sans;
-  font-size: 18px;
-  }
+	font-size: 18px;
+	text-transform:uppercase;
+	letter-spacing: 0.02em;
+	color: $blue;
 
   a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
+    margin-right: 2em;
+	  display: inline-block;
+	  padding: 1em 0.5em;
+	  background-color: $white;
+	  border-radius: 2px;
+	  
+    
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
