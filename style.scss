@@ -36,10 +36,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   padding: 0;
 margin-top: 1em;
-
-  @include mobile {
-    line-height: 1.2;
-  }
 }
 
 .posts h1{
@@ -71,9 +67,9 @@ margin-top: 0.75rem;
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
+  text-decoration-skip-ink: auto;
+text-decoration-color: $blue;
+cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -173,20 +169,12 @@ img {
   width: 100%;
 	display: block;
 	margin-bottom: 2rem;
-
-
-  @include mobile {
-
-  }
-
 }
 
 
 nav {
 	display: block;
 	text-align: center;
-	
-    
 	
 
   a {
@@ -195,6 +183,7 @@ nav {
   }
 	a + a{
 		margin-left: 1rem;
+	}
 }
 
 //
