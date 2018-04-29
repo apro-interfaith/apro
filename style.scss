@@ -178,20 +178,21 @@ nav {
 	font-size: 18px;
 	text-transform:uppercase;
 	letter-spacing: 0.02em;
-	color: $blue;
+	color: $white;
 	font-weight:bold;
+	background-color: $gray;
 
   a {
     margin-right: 2em;
 	  display: inline-block;
 	  padding: 0.5em 1em;
 	  border-radius: 2px;
-	  background-color: $gray;
+	  
 	  
     
 
     a:hover {
-	    background-color: $white;
+	    background-color: $darkGray;
     
     }
   }
