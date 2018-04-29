@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.2;
+  margin-bottom: 1em;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.2;
   }
 }
 
@@ -65,7 +65,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin-bottom: 1em;
 }
 
 a {
@@ -78,7 +78,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin-bottom: 1em;
   padding-left: 30px;
 }
 
@@ -152,7 +152,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: radial-gradient(#ffdb19 10%, #ffd700 20%, #e5c100 70%);	
 }
 
 .masthead {
@@ -229,7 +228,6 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -243,12 +241,12 @@ nav {
 //
 
 .posts > .post {
-  padding: 2em;
+  padding: 2em 1em;
   border-bottom: 1px solid $lightGray;
 background-color: $white;
 box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
 	border-radius: 5px;
-	margin:2em
+	margin-bottom: 2em;
 }
 
 .posts > .post:last-child {
@@ -258,7 +256,7 @@ box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin-bottom: 1em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
@@ -273,6 +271,9 @@ box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+	letter-spacing:0.01em;
+	  font-weight:bold;
+	  font-family:sans-serif;
   }
 }
 
