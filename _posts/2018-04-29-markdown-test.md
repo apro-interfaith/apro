@@ -5,7 +5,7 @@ title: Markdown test suite
 
 Here are some things to do with markdown.
 
-Here is *italic text* and here is **bold text** and here is a [link](https://apro-interfaith.github.io/apro/). 
+Here is *italic text* and here is **bold text** and here is a [link with some running texty text](https://apro-interfaith.github.io/apro/). 
 
 # This is level one heading
 
