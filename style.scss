@@ -21,9 +21,6 @@ body {
   color: $darkGray;
 }
 
-* + * {
-	margin-top: 1.5em;
-}
 
 .container {
   margin: 0 auto;
@@ -38,10 +35,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.2;
   padding: 0;
+margin-top: 1em;
 
   @include mobile {
     line-height: 1.2;
   }
+}
+
+.posts h1{
+	margin-top: 0;
 }
 
 h1 {
@@ -65,7 +67,7 @@ h4 {
 }
 
 p {
-
+margin-top: 1em;
 }
 
 a {
@@ -78,7 +80,7 @@ a {
 }
 
 ul, ol {
-
+margin-top: 1em;
   padding-left: 30px;
 }
 
