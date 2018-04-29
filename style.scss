@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: $lightGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -243,8 +243,12 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding: 2em;
   border-bottom: 1px solid $lightGray;
+background-color: $white;
+box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
+	border-radius: 5px;
+	margin:2em
 }
 
 .posts > .post:last-child {
