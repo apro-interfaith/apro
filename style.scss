@@ -236,12 +236,13 @@ box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
 	}
 	
   .read-more {
+	  display:inline-block;
     text-transform: uppercase;
     font-size: 15px;
 	letter-spacing:0.02em;
 	  font-weight:bold;
 	  font-family:$sans;
-	  margin-top: 2rem;
+	  margin-top: 1rem;
   }
 }
 
