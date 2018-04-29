@@ -179,18 +179,19 @@ nav {
 	text-transform:uppercase;
 	letter-spacing: 0.02em;
 	color: $blue;
+	font-weight:bold;
 
   a {
     margin-right: 2em;
 	  display: inline-block;
-	  padding: 1em 0.5em;
-	  background-color: $white;
+	  padding: 0.5em 1em;
 	  border-radius: 2px;
 	  
     
 
-    @include mobile {
-      margin: 0 10px;
+    :hover {
+	    background-color: $white;
+    
     }
   }
 }
