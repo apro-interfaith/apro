@@ -4,7 +4,7 @@
 //
 
 // Colors
-$blue: #4183C4;
+$primary: #528D00;
 
 // Grays
 $black: #000;
@@ -37,6 +37,10 @@ $serif: "Source Serif Pro", serif;
             background:$blue;
             color: $white;
         }
+            &:active{
+            background:$blue;
+            color: $white;
+}
 }
 
 // Mobile breakpoints
