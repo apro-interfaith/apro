@@ -186,10 +186,11 @@ nav {
 	  display: inline-block;
 	  padding: 0.5em 1em;
 	  border-radius: 2px;
+	  background-color: $gray;
 	  
     
 
-    :hover {
+    a:hover {
 	    background-color: $white;
     
     }
