@@ -19,6 +19,19 @@ $white: #fff;
 $sans: "Source Sans Pro",sans-serif;
 $serif: "Source Serif Pro", serif;
 
+// Buttons
+@mixin buttons {
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-family: $sans;
+    font-size: 15px;
+    text-transform:uppercase;
+    letter-spacing: 0.04em;
+    font-weight:600;
+    border-radius: 3px;
+    border: 1px solid $blue;
+}
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
