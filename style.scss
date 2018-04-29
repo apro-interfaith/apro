@@ -174,27 +174,21 @@ img {
 nav {
     margin-top: 9px;
     display: block;
-    font-family: $sans;
+    
+	
+
+  a {
+    margin-right: 1em;
+	  display: inline-block;
+	  padding: 0.5em 1em;
+	  border-radius: 2px;
+	 font-family: $sans;
 	font-size: 18px;
 	text-transform:uppercase;
 	letter-spacing: 0.02em;
 	color: $white;
 	font-weight:bold;
-	background-color: $gray;
-
-  a {
-    margin-right: 2em;
-	  display: inline-block;
-	  padding: 0.5em 1em;
-	  border-radius: 2px;
-	  
-	  
-    
-
-    a:hover {
-	    background-color: $darkGray;
-    
-    }
+	  background-color: $gray;
   }
 }
 
