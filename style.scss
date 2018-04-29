@@ -115,6 +115,11 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+    margin-top: 2em;
+    padding-top: 0.5em;
+    padding-right: 2em;
+    border-top: 1px solid $gray;
+    display: table;
 }
 
 // Specify the color of the selection
