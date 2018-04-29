@@ -4,7 +4,6 @@
 //
 
 // Colors
-$blue: #4183C4;
 $primary: #007026;
 $accent: #8A9700;
 
@@ -33,7 +32,7 @@ $serif: "Source Serif Pro", serif;
     border-radius: 3px;
     border: 1px solid $blue;
     text-decoration:none;
-    color: $blue;
+    color: $primary;
     
         &:hover{
             background:$primary;
