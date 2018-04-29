@@ -183,14 +183,14 @@ img {
 
 
 nav {
-    display: block;
+	display: block;
 	text-align: center;
 	
     
 	
 
   a {
-
+	  @include buttons;
 	  
   }
 }
