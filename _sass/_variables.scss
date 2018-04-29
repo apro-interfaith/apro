@@ -34,7 +34,8 @@ $serif: "Source Serif Pro", serif;
     color: $blue;
     
         &:hover{
-            background:red;
+            background:$blue;
+            color: $white;
         }
 }
 
