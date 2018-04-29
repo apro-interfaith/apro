@@ -70,10 +70,10 @@ margin-top: 0.75rem;
 a {
 	color: inherit;
   text-decoration-skip-ink: auto;
-text-decoration-color: $blue;
+text-decoration-color: $primary;
 cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $primary;
   }
 }
 
