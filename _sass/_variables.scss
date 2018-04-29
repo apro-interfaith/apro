@@ -11,13 +11,12 @@ $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
-$lightGray: #eee;
+$lightGray: #efefef;
 $white: #fefefe;
 
 // Font stacks
-$helvetica: Alegreya,Helvetica, Arial, sans-serif;
-$helveticaNeue: Alegreya, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Alegreya,Georgia, serif;
+$sans: "Alegreya Sans",sans-serif;
+$serif: Alegreya,Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
