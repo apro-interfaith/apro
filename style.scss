@@ -21,6 +21,10 @@ body {
   color: $darkGray;
 }
 
+* + * {
+	margin-top: 1.5em;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -33,7 +37,6 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
   line-height: 1.2;
-  margin: 1em 0 1rem;
   padding: 0;
 
   @include mobile {
@@ -62,7 +65,7 @@ h4 {
 }
 
 p {
-  margin-bottom: 1em;
+
 }
 
 a {
@@ -75,7 +78,7 @@ a {
 }
 
 ul, ol {
-  margin-bottom: 1em;
+
   padding-left: 30px;
 }
 
