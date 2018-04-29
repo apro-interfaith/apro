@@ -4,7 +4,8 @@
 //
 
 // Colors
-$primary: #528D00;
+$primary: #007026;
+$accent: #8A9700
 
 // Grays
 $black: #000;
@@ -34,11 +35,11 @@ $serif: "Source Serif Pro", serif;
     color: $blue;
     
         &:hover{
-            background:$blue;
+            background:$primary;
             color: $white;
         }
             &:active{
-            background:$blue;
+            background:$accent;
             color: $white;
 }
 }
