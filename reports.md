@@ -6,6 +6,8 @@ permalink: /reports/
 
 Since its beginnings in 2003, APRO has produced an extensive series of reports and submissions on the principles of religious freedom and harmony in Australia.
 
+***
+
 ## APRO Forum 2015: “Building a community where we all belong”
 
 <time>November 2015</time>
@@ -17,6 +19,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_2015_final_report.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
+***
+
 ## Submission on the Exposure Draft of the Freedom of Speech (Repeal of S.18C) Bill 2014
 
 <time>April 2014</time>
@@ -26,6 +30,8 @@ members.
 >Accordingly we would respectfully submit that the draft Bill should not proceed, and that the Racial Discrimination Act should remain unchanged.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_submission_RDA_final.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
 
 ## APRO Position Paper: Addressing Religious Discrimination in Australia
 
@@ -37,6 +43,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Position_Paper-Addressing_Religious_Discrimination.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
+***
+
 ## Faith Matters: an interfaith agenda for a religiously plural Australia
 
 **A submission by the members of the Australian Partnership of Religious Organisations (APRO) to members of the Australian Parliament and Government.**
@@ -46,6 +54,8 @@ members.
 >Given the recent resurgence of religious voices in public discourse and in the light of Australia’s long term commitment to and support of Freedom of Religion and Belief APRO makes six recommendations it considers important to the next phase of harmonious and productive interreligious relations in Australia.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Faith_Matters.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
 
 ## Report for the Australian Human Rights Commission “Building Community Together” forum
 
@@ -62,6 +72,8 @@ members.
 >- Provide recommendations that will inform policies and programs across government agencies and faith communities, including the Australian Human Rights Commission’s report on Freedom of Religion and Belief in the 21st Century.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_report_June09.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
 
 ## APRO submission to the Australian Human Rights Commission on Freedom of Religion and Belief in the 21st Century
 
