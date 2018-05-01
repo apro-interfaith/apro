@@ -243,8 +243,16 @@ box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
     margin: 1em 0;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    
   }
+	
+	blockquote:before{
+		content:"❝ ";
+		color: $gray;
+		font-size: 3em;
+		margin-right:1em;
+	}
+		
 
 	blockquote p{
 		margin-top: 0;
