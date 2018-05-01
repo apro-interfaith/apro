@@ -7,7 +7,7 @@ permalink: /reports/
 Since its beginnings in 2003, APRO has produced an extensive series of reports and submissions on the principles of religious freedom and harmony in Australia.
 
 
-***
+<section class="report">
 
 ## APRO Forum 2015: “Building a community where we all belong”
 
@@ -20,7 +20,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_2015_final_report.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
-***
+</section>
+<section class="report">
 
 ## Submission on the Exposure Draft of the Freedom of Speech (Repeal of S.18C) Bill 2014
 
@@ -32,7 +33,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_submission_RDA_final.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
-***
+</section>
+<section class="report">
 
 ## APRO Position Paper: Addressing Religious Discrimination in Australia
 
@@ -44,7 +46,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Position_Paper-Addressing_Religious_Discrimination.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
-***
+</section>
+<section class="report">
 
 ## Faith Matters: an interfaith agenda for a religiously plural Australia
 
@@ -72,7 +75,8 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_report_June09.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
-***
+</section>
+<section class="report">
 
 ## APRO submission to the Australian Human Rights Commission on Freedom of Religion and Belief in the 21st Century
 
@@ -91,4 +95,4 @@ members.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_AHRC.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
-
+</section>
