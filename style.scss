@@ -244,11 +244,14 @@ box-shadow: 8px 14px 38px rgba(39,44,49,.06),1px 3px 8px rgba(39,44,49,.03);
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-style: italic;
   }
 
 	blockquote p{
 		margin-top: 0;
+	}
+	
+	blockquote p + p{
+		margin-top: 0.75rem;
 	}
 
 time {
