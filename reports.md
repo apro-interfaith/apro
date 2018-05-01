@@ -6,6 +6,22 @@ permalink: /reports/
 
 Since its beginnings in 2003, APRO has produced an extensive series of reports and submissions on the principles of religious freedom and harmony in Australia.
 
+
+***
+
+## APRO Forum 2015: “Building a community where we all belong”
+
+<time>November 2015</time>
+
+>The Australian Partnership of Religious Organisations hosted a successful day-long interfaith forum on “Building a community where we all belong” in the Macquarie Room, NSW Parliament House, Sydney on Tuesday 17 November 2015.
+>
+>The forum provided a timely opportunity to advance discourse on a range of issues related to the role of religion in building a united and cohesive Australian community. It brought religious and community leaders together in an exchange of views that also included government officials, academics, and interested community
+members.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_2015_final_report.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
 ## Submission on the Exposure Draft of the Freedom of Speech (Repeal of S.18C) Bill 2014
 
 <time>April 2014</time>
