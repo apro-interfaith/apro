@@ -6,6 +6,16 @@ permalink: /reports/
 
 Since its beginnings in 2003, APRO has produced an extensive series of reports and submissions on the principles of religious freedom and harmony in Australia.
 
+## APRO Position Paper: Addressing Religious Discrimination in Australia
+
+<time>October 2012</time>
+
+This position paper will consider the nature of racism and discrimination experienced in Australia on the basis of religion, and will also look to what we, as a responsible community, can do to eradicate these incidents and promote and support a harmonious multi-faith and multicultural Australia.
+
+The paper seeks to highlight issues for consideration by government, religious and community leaders, and the community at large, to ensure that Australia both protects the inherent right to freedom of religion and sends a clear message that discrimination and racism on the basis of religious belief is unacceptable and, indeed, in many instances, unlawful.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Position_Paper-Addressing_Religious_Discrimination.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
 ## Faith Matters: an interfaith agenda for a religiously plural Australia
 
 **A submission by the members of the Australian Partnership of Religious Organisations (APRO) to members of the Australian Parliament and Government.**
@@ -32,3 +42,5 @@ This submission addresses six key areas for consideration within debates surroun
 6. Gender Equality
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_AHRC.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+
