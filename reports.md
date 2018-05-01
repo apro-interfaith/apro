@@ -6,6 +6,18 @@ permalink: /reports/
 
 Since its beginnings in 2003, APRO has produced an extensive series of reports and submissions on the principles of religious freedom and harmony in Australia.
 
+## Submission on the Exposure Draft of the Freedom of Speech (Repeal of S.18C) Bill 2014
+
+<time>April 2014</time>
+
+### Extract
+
+Section 18C is important as a declaration by government that Australians are entitled to be protected against the expression of racial abuse. It follows that the proposed reductionin the scope of that protection would represent a signal to racists that government has become less interested in providing that protection.
+
+Accordingly we would respectfully submit that the draft Bill should not proceed, and that the Racial Discrimination Act should remain unchanged.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_submission_RDA_final.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
 ## APRO Position Paper: Addressing Religious Discrimination in Australia
 
 <time>October 2012</time>
