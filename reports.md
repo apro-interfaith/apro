@@ -79,7 +79,63 @@ Since its beginnings in 2003, APRO has produced an extensive series of reports a
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_AHRC.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
+***
+
+## Media Reports
+
+### APRO Supports National Day of Mourning
+
+<time>February 20, 2009</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_2009009.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO welcomes Australia’s voice against religious persecution
+
+<time>June 10, 2008</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20080610.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO shares Australia’s concern over religious persecution in Iran
+
+<time>March 25, 2009</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20090325.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### Australia’s religious leaders oppose religious persecution in Iran
+
+<time>8 September 2010</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20100910.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO submission to the federal government inquiry into the regulation of billboard and outdoor advertising
+
+<time>February 2011</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20110214.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
 ## Past Forums
+
+### APRO Forum 2017: “Religious values and the value of religion”
+
+<time> 22 February 2017</time>
+
+>The forum provided a space for Christians from various denominations, Jews, Muslims, Buddhists, Hindus, Sikhs, Bahá’ís and others to come together to explore the value of religion and the place of religious values in our diverse society. Representatives from government, academia and the media also attended.
+>
+>The forum began with a keynote address by Professor the Hon Kristina Keneally, the frst woman to become Premier of NSW. Refecting on her personal journey as an “openly Catholic” feminist woman, she explored the complex linkages between religion, faith, values and politics in a secular society. She said it was wrong to say that religion has no role to play in political discourse, as we are all infuenced by the experiences, beliefs and worldview that we bring to public life; we are all spiritual beings. The more important question to ask, she said, is how well our politicians understand the faith of their fellow citizens, and how it shapes and motivates them.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/Forum_report_and_outcomes.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
 
 ### APRO Forum 2015: “Building a community where we all belong”
 
@@ -98,19 +154,30 @@ members.
 
 <time>March 2011</time>
 
-The APRO forum on “Inter-faith in Australia: The Way Forward” was held at the
-Australian Centre for Christianity and Culture, 15 Blackall Street, Barton on Monday
-21 March from 2.00 to 5.00 pm.
-
-The objectives of the forum were to:
-
-- Bring members and leaders of the various faiths in Canberra together with
-APRO in order to facilitate communication and the building of understanding
-- Identify opportunities for strengthening relationships between the faith
-communities through dialogue, interaction and cooperation
-- Offer support to smaller faith communities
-- Provide recommendations on a range of issues concerning the future if inter-
-faith in Australia that will inform polics and programs across government
-agencies and faith communities.
+>The APRO forum on “Inter-faith in Australia: The Way Forward” was held at the Australian Centre for Christianity and Culture, 15 Blackall Street, Barton on Monday 21 March from 2.00 to 5.00 pm.
+>
+>The objectives of the forum were to:
+>
+>- Bring members and leaders of the various faiths in Canberra together with APRO in order to facilitate communication and the building of understanding
+>- Identify opportunities for strengthening relationships between the faith communities through dialogue, interaction and cooperation
+>- Offer support to smaller faith communities
+>- Provide recommendations on a range of issues concerning the future if interfaith in Australia that will inform policies and programs across government agencies and faith communities.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_report_March11.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO Media Forum: “Religion and the media: Why good news is not good news”
+
+<time>25 August 2008</time>
+
+>The mainstream media plays an important role in informing and shaping the views of many Australians about religion and religious issues. Most faith communities recognise the influence and potential of the media, and the need to work with the media effectively. Yet there are many challenges. Some feel their communities are unfairly targeted by the media, while others feel ignored. Many perceive the media to be focussed on division and “bad news” stories, while all wish their faiths to be presented accurately and in a positive light. The forum was inspired by recommendations made at the “Australian Faiths: Building Community Together” forum for religious leaders held in Sydney in June 2007.
+>
+>The objectives of the forum were to:
+>
+>- Bring together representatives of all faith traditions in Australia who work with the media, in order that they can learn from each other through dialogue, interaction and cooperation
+>- Enable participants to improve their knowledge about how the media works and increase their skills to work with the media more effectively
+>- Provide participants with an opportunity to meet and learn from key journalists who are engaged and interested in stories about religion
+>- Provide journalists with an opportunity to meet and learn from representatives of diverse faith traditions.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Media_Forum_Report.pdf" title="Download PDF of full report" class="button">Full Report</a>
