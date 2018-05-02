@@ -44,24 +44,6 @@ Since its beginnings in 2003, APRO has produced an extensive series of reports a
 
 ***
 
-## Report for the Australian Human Rights Commission “Building Community Together” forum
-
-<time>16 June 2009</time>
-
->The APRO Multi-Faith forum on “Building Community Together” was held at the Migrant Resource Centre of South Australia, 59 King William Street, Adelaide on Tuesday 16 June 2009.
->
->This was a one-day forum, the objectives of which were to:
->
->- Bring members and leaders of the various faiths in South Australia together with APRO in order to facilitate communication and the building of understanding
->- Identify opportunities for strengthening relationships between the faith communities through dialogue, interaction and cooperation
->- Offer support to smaller faith communities
->- Share information and facilitate input into the Parliament of the World’s Religions, to be held in Melbourne in December 2009.
->- Provide recommendations that will inform policies and programs across government agencies and faith communities, including the Australian Human Rights Commission’s report on Freedom of Religion and Belief in the 21st Century.
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_report_June09.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
 ## APRO submission to the Australian Human Rights Commission on Freedom of Religion and Belief in the 21st Century
 
 <time>February, 2009</time>
@@ -78,48 +60,6 @@ Since its beginnings in 2003, APRO has produced an extensive series of reports a
 >6. Gender Equality
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_AHRC.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
-## Media Reports
-
-### APRO Supports National Day of Mourning
-
-<time>February 20, 2009</time>
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_2009009.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
-### APRO welcomes Australia’s voice against religious persecution
-
-<time>June 10, 2008</time>
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20080610.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
-### APRO shares Australia’s concern over religious persecution in Iran
-
-<time>March 25, 2009</time>
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20090325.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
-### Australia’s religious leaders oppose religious persecution in Iran
-
-<time>8 September 2010</time>
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20100910.pdf" title="Download PDF of full report" class="button">Full Report</a>
-
-***
-
-### APRO submission to the federal government inquiry into the regulation of billboard and outdoor advertising
-
-<time>February 2011</time>
-
-<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20110214.pdf" title="Download PDF of full report" class="button">Full Report</a>
 
 ***
 
@@ -167,6 +107,24 @@ members.
 
 ***
 
+### Report for the Australian Human Rights Commission “Building Community Together” forum
+
+<time>16 June 2009</time>
+
+>The APRO Multi-Faith forum on “Building Community Together” was held at the Migrant Resource Centre of South Australia, 59 King William Street, Adelaide on Tuesday 16 June 2009.
+>
+>This was a one-day forum, the objectives of which were to:
+>
+>- Bring members and leaders of the various faiths in South Australia together with APRO in order to facilitate communication and the building of understanding
+>- Identify opportunities for strengthening relationships between the faith communities through dialogue, interaction and cooperation
+>- Offer support to smaller faith communities
+>- Share information and facilitate input into the Parliament of the World’s Religions, to be held in Melbourne in December 2009.
+>- Provide recommendations that will inform policies and programs across government agencies and faith communities, including the Australian Human Rights Commission’s report on Freedom of Religion and Belief in the 21st Century.
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_forum_report_June09.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
 ### APRO Media Forum: “Religion and the media: Why good news is not good news”
 
 <time>25 August 2008</time>
@@ -181,3 +139,45 @@ members.
 >- Provide journalists with an opportunity to meet and learn from representatives of diverse faith traditions.
 
 <a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_Media_Forum_Report.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+## Media Reports
+
+### APRO Supports National Day of Mourning
+
+<time>February 20, 2009</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_2009009.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO welcomes Australia’s voice against religious persecution
+
+<time>June 10, 2008</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20080610.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO shares Australia’s concern over religious persecution in Iran
+
+<time>March 25, 2009</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20090325.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### Australia’s religious leaders oppose religious persecution in Iran
+
+<time>8 September 2010</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20100910.pdf" title="Download PDF of full report" class="button">Full Report</a>
+
+***
+
+### APRO submission to the federal government inquiry into the regulation of billboard and outdoor advertising
+
+<time>February 2011</time>
+
+<a href="https://github.com/apro-interfaith/apro/blob/master/files/APRO_MR_20110214.pdf" title="Download PDF of full report" class="button">Full Report</a>
