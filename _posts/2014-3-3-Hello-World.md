@@ -1,12 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to the new APRO website
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/APRO-forum-Image.jpg)
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Welcome to our new site! APRO has been operating for many years now, and for that time our web presence has been hosted by FECCA. Now it's time for us to make our own humble little website. Here you can see what we've been doing for the past years, and keep up with new events.
