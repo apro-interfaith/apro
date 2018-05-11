@@ -82,6 +82,6 @@ Additionally, the organisations will:
 - promote Australian multiculturalism, and the principles it enshrines, as a good-practice model of social harmony and community participation to diverse communities within Australia as well as to the rest of the world.
 
 
-### Contact me
+### Contact
 
 [apro.interfaith@gmail.com](mailto:apro.interfaith@gmail.com)
