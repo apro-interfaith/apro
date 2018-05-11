@@ -10,7 +10,7 @@ The Australian Partnership of Religious Organisations (APRO) is a peak-of-peak b
 
 The idea of this partnership was first discussed in February 2003 at a meeting convened by the Council for Multicultural Australia (CMA) in Sydney. The context of this meeting was both the review of the CMA’s role as well as war with Iraq. The CMA wanted to ascertain if there was a role for it to broker the establishment of a body, or to undertake the task itself, of promoting community harmony at a time when there is a climate of conflict.
 
-Following this meeting Abd Malak, the then Chair of the Federation of Ethnic Communities’ Councils of Australia (FECCA), convened a meeting (on 4 March 2003) that included a number of members of faith and ethnic communities. The meeting discussed the value of establishing a partnership of the communities with the purpose of:
+Following this meeting Abd Malak, the then Chair of the [Federation of Ethnic Communities’ Councils of Australia (FECCA)](http://fecca.org.au/), convened a meeting (on 4 March 2003) that included a number of members of faith and ethnic communities. The meeting discussed the value of establishing a partnership of the communities with the purpose of:
 
 - providing advice to government at the national level (both ministers, the public service but also to members of parliament not in the government);
 - promoting and advocating for community harmony, inter-ethnic and inter-faith acceptance;
