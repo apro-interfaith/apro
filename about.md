@@ -6,7 +6,7 @@ permalink: /about/
 
 The Australian Partnership of Religious Organisations (APRO) is a peak-of-peak body that was established in 2003. It is unique in that it comprises representatives of major faith bodies as well as national multicultural community organisations. APRO is a practical example of how successfully faith and ethnic communities can work collaboratively in Australia. 
 
-## Background
+## Let's edit this
 
 The idea of this partnership was first discussed in February 2003 at a meeting convened by the Council for Multicultural Australia (CMA) in Sydney. The context of this meeting was both the review of the CMA’s role as well as war with Iraq. The CMA wanted to ascertain if there was a role for it to broker the establishment of a body, or to undertake the task itself, of promoting community harmony at a time when there is a climate of conflict.
 
