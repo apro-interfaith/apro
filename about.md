@@ -84,4 +84,4 @@ Additionally, the organisations will:
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[apro.interfaith@gmail.com](mailto:apro.interfaith@gmail.com)
